@@ -1,1 +1,2 @@
 # AritifcialIntel
+/*For the Artificial Intelligence with Machine learning I plan to work on the course and project for three hours a week. On Monday's I will be dedicating three hours to working on this project between noon and 3pm. If I need additional time, I am able to add extra time on Thursday's between 2pm and 5pm. I will begin with the Oracle course and setting up a general outline of the project. I will begin once the registation for the Oracle course is in. As I progress through the weeks, I will be updating this READMe file*/
